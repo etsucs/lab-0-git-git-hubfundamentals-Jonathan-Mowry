@@ -1,7 +1,7 @@
-#Hello World!
-##This is some text I wrote.
+# Hello World!
+## This is some text I wrote.
 
-###Here is my notes
+### Here is my notes
 I.	What is GitHub / Version Control System (VCS)
   a.	Manage files and directories
   b.	Track changes over time
